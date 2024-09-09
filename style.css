@@ -4,9 +4,6 @@
     box-sizing: border-box;
 }
 
-
-
-
 body {
     font-family: Arial, sans-serif;
     color: #eaeaea; /* Cor de texto clara para um tema dark */
@@ -17,13 +14,77 @@ body {
     background-color: #1e1e1e; /* Fundo escuro da navbar */
 }
 
+
+.nav{
+    --bs-nav-link-color: #F28F16 !important;
+}
+
+
+
+
+
+
 .nav-link:hover {
     color: #c8102e !important; /* Dourado para destaque no hover */
 }
 
+
+h1,h3,h4,h5{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+h2 .player{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+.player:hover {
+    color: #c8102e !important; /* Dourado para destaque no hover */
+}
+
+
+
+#deadpool-adventure{
+    font-family: "Bebas Neue", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 20px;
+    color: #73071B;
+
+}
+
+
+
+
+
+.display-4  {
+   color: #73071B;
+}
+
+.lead  {
+    color: #fff;
+ }
+ 
+
+
+p{
+    font-family: "Comic Neue", cursive;
+    font-weight: 800;
+    font-style: normal;
+}
+
+
+
+
+
 .hero {
     position: relative; /* Permite o uso do pseudo-elemento */
-    background-image: url('https://images3.alphacoders.com/135/1350860.png');
+    background-image: url('Banner1.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -51,6 +112,10 @@ body {
 }
 
 
+
+
+
+
 .hero .display-4 {
     font-weight: bold;
 }
@@ -72,27 +137,67 @@ section {
 }
 
 footer {
-    background-color: #1e1e1e; /* Fundo escuro do rodapé */
-    color: #eaeaea; /* Texto claro no rodapé */
+    background-color: #1e1e1e;
+    color: #eaeaea; 
 }
 
 .btn-primary {
-    background-color: #c8102e; /* Vermelho do Deadpool */
+    background-color: #c8102e; 
     border: none;
 }
 
 .btn-primary:hover {
-    background-color: #a40e2e; /* Vermelho mais escuro para o hover */
+    background-color: #F28F16; 
 }
 
 img {
     border-radius: 8px;
 }
+
+.w-100{
+    width: 50% !important;
+}
+
 #gallery {
-    color: black
+    color: #ffff;
 }
 
 #gallery img {
-    height: 250px;
-    width: 400px;
+    height: 400px;
+    width: 700px;
+}
+
+.bg-light {
+    background-color: #531410 !important;
+}
+
+.bg-dark {
+    background-image: url('card4.jpg');
+    background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
+    background-position: center center; /* Centraliza a imagem no elemento */
+    background-repeat: no-repeat; /* Impede a repetição da imagem */
+    background-attachment: fixed; /* Mantém a imagem fixa ao rolar, opcional */
+    height: 600px; /* Ajuste conforme necessário */
+    width: 100%;
+  }
+  
+
+.primeirasc{
+    background-color: #73071B;
+}
+
+.segundasc{
+    background-color: #F28F16;
+}
+
+.w-100{
+    width: 100% !important;
+}
+
+
+
+.text-center {
+    text-align: center !important;
+  
+
 }
