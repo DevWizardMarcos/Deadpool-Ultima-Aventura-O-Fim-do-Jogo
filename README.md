@@ -24,6 +24,8 @@ Este é um projeto especial, desenvolvido em um workshop do curso, que une desig
 - 🎨 **Paleta de Cores Marvel:** Deadpool (vermelho e preto) + Wolverine (amarelo e azul) = contraste visual marcante.
 - 🖼️ **Imagens Originais:** Elementos visuais retirados diretamente da HQ, trazendo fidelidade e autenticidade.
 - 🛠️ **Bootstrap:** Interface moderna, responsiva e elegante, fácil de navegar.
+- 🎵 **Musica** Musica do filme,para deixar o usuario imersivo na pagina.
+- 🎁 ** Surpresa** Surpresa no final da pagina.
 
 ---
 
