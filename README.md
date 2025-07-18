@@ -1,4 +1,15 @@
 
+<hr>
+
+<img src="card4.jpg" alt="Deadpool and Wolverine">
+
+
+<hr>
+
+
+
+
+
 🌟 Sobre o Projeto
 Este é um projeto especial, desenvolvido durante um workshop do meu curso, que combina design, criatividade e muito estilo Marvel! Inspirada na HQ Deadpool: The End, esta landing page foi construída com Bootstrap para oferecer uma experiência visual marcante e interativa.
 
