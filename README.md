@@ -1,7 +1,7 @@
 <div align="center">
   <img src="card4.jpg" alt="Deadpool and Wolverine" width="800">
 
-  <h1>🦸‍♂️ Deadpool: Última Aventura – O Fim do Jogo</h1>
+  <h1><img src ="deadpool_loveq.png"> Deadpool: Última Aventura – O Fim do Jogo</h1>
   <p>
     Landing page inspirada na HQ <strong>Deadpool: The End</strong>, com design em Bootstrap e paletas de cores do Deadpool e Wolverine.
   </p>
