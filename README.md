@@ -1,42 +1,60 @@
+<div align="center">
+  <img src="card4.jpg" alt="Deadpool and Wolverine" width="800">
 
-<hr>
+  <h1>🦸‍♂️ Deadpool: Última Aventura – O Fim do Jogo</h1>
+  <p>
+    Landing page inspirada na HQ <strong>Deadpool: The End</strong>, com design em Bootstrap e paletas de cores do Deadpool e Wolverine.
+  </p>
+  <a href="#sobre-o-projeto">Sobre</a> •
+  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#funcionalidades">Funcionalidades</a> •
+  <a href="#como-usar">Como Usar</a> •
+  <a href="#contribua">Contribua</a>
+  <hr>
+</div>
 
-<img src="card4.jpg" alt="Deadpool and Wolverine">
+## 🌟 Sobre o Projeto
 
+Este é um projeto especial, desenvolvido em um workshop do curso, que une design, criatividade e muito estilo Marvel! Inspirado na HQ <strong>Deadpool: The End</strong>, a landing page captura toda a irreverência e ação do mercenário tagarela.
 
-<hr>
+---
 
+## 💡 Diferenciais
 
+- 🎨 **Paleta de Cores Marvel:** Deadpool (vermelho e preto) + Wolverine (amarelo e azul) = contraste visual marcante.
+- 🖼️ **Imagens Originais:** Elementos visuais retirados diretamente da HQ, trazendo fidelidade e autenticidade.
+- 🛠️ **Bootstrap:** Interface moderna, responsiva e elegante, fácil de navegar.
 
+---
 
+## 🚀 Funcionalidades
 
-🌟 Sobre o Projeto
-Este é um projeto especial, desenvolvido durante um workshop do meu curso, que combina design, criatividade e muito estilo Marvel! Inspirada na HQ Deadpool: The End, esta landing page foi construída com Bootstrap para oferecer uma experiência visual marcante e interativa.
+- **Hero Section:** Destaque visual para introdução do tema.
+- **Seções Interativas:** Layouts pensados para valorizar conteúdo e imagens.
+- **Design Responsivo:** Perfeito em qualquer dispositivo (desktop ou mobile).
 
-💡 O que Torna este Projeto Único?
-🎨 Paleta de Cores Marvel:
-Utilizei as cores icônicas do Deadpool (vermelho e preto) e do Wolverine (amarelo e azul) para criar um contraste visual impressionante, destacando a dualidade entre os personagens.
+---
 
-🖼️ Imagens Direto da HQ:
-A página conta com elementos visuais retirados da própria HQ Deadpool: The End, capturando toda a irreverência e ação características do mercenário tagarela.
+## 📚 Tecnologias Utilizadas
 
-🛠️ Tecnologia Utilizada:
-Construída com Bootstrap, a landing page apresenta uma interface moderna, responsiva e fácil de navegar, pensada para destacar os conteúdos com elegância.
+- **Bootstrap**
+- **HTML5**
+- **SCSS**
+- **CSS3**
+- **JavaScript**
 
-🚀 O que Você Vai Encontrar?
-Hero Section: Um destaque visual para introduzir o tema da página.
-Seções Interativas: Layouts pensados para valorizar o conteúdo e as imagens.
-Design Responsivo: Perfeito para qualquer dispositivo, seja desktop ou mobile.
-🎯 Objetivo do Projeto
-Este projeto foi uma oportunidade de:
+---
 
-Explorar a construção de páginas profissionais com Bootstrap.
-Integrar elementos visuais de uma HQ em uma landing page.
-Criar algo que transmitisse energia e personalidade, inspirado no Deadpool e no Wolverine.
-📈 Próximos Passos
-Adicionar animações para tornar a página ainda mais dinâmica.
-Expandir com uma seção que destaque curiosidades sobre os personagens.
-Explorar novas ideias baseadas no universo Marvel!
-🔗 Fique à Vontade para Explorar o Repositório!
-Se você gostou, deixe uma ⭐ e compartilhe suas ideias! 💬
-"Com grandes projetos vêm grandes responsabilidades." 😉
+## 🎯 Objetivo
+
+- Praticar construção de páginas profissionais com Bootstrap.
+- Integrar elementos visuais de HQ em uma landing page.
+- Transmitir personalidade, energia e irreverência inspiradas nos personagens.
+
+---
+
+## 🛠️ Como Usar
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/DevWizardMarcos/Deadpool-Ultima-Aventura-O-Fim-do-Jogo.git
